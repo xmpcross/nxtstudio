@@ -1,0 +1,26 @@
+.butn.butn-bg {
+    font-weight: 600;
+    background: #0046be;
+    color: #ffffff;
+    -webkit-transition: all .4s;
+    -o-transition: all .4s;
+    transition: all .4s;
+}
+.butn.butn-bg:hover {
+  font-weight:600;
+  background: #ffffff;
+  border-color: none;
+  color: #000 !important;
+}
+.butn.butn-sm {
+    padding: 10px 25px;
+}
+.radius-3 {
+  border-radius: 3px;
+}
+.text-logo {
+    font-size: 20px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    font-family: 'Outfit', sans-serif;
+}
